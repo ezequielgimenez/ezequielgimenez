@@ -8,7 +8,7 @@ Skills: Node / TyperScript / JS / HTML / CSS
 
 - 📫 How to reach me: ezequielezequiel9@gmail.com 
 
-[<img src='https://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezequielgimenez/)  
+[<img src='https://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequielgimenez)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgimenez&show_icons=true&theme=dracula)  
