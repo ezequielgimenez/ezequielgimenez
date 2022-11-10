@@ -13,7 +13,7 @@ Skills: Node / TyperScript / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielgimenez)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgimenez&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgimenez&show_icons=true&theme=radical)  
 
 
 <h3 align="left">Languages and Tools:</h3>
