@@ -9,7 +9,8 @@ Skills: Node / TyperScript / JS / HTML / CSS
 - 📫 How to reach me: ezequielezequiel9@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ezequielgimenez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dracula.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezequielgimenez/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ezequielgimenez)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezequielgimenez/)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgimenez&show_icons=true&theme=dracula)  
