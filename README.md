@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ezequiel
 ####  I'm aspiring Web Fullstack Developer
-I'm student in https//apx.scholl for web developer.
+I'm student in [https//apx.scholl](https://apx.school/) for web developer.
 My stack technologies are Node, Typescript, HTML, CSS.
 Here, you will find all my works and my contact media.
 
